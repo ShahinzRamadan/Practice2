@@ -1,4 +1,4 @@
-# Practice branching and merging
+# ▶️Practice branching and merging
   ### Creating new branch:-
     git branch BranchName
   ### Switch to a branch:-
@@ -16,7 +16,7 @@
     git branch -D BranchName
 
 
-# Practice stash command
+# ▶️Practice stash command
   ### Stash files:-
     git stash
   ### Stash a file with a message:-
